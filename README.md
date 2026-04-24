@@ -2,7 +2,7 @@
 
 **COO & Technical Co-founder of Life2Food** — building a marketplace that helps people save money while reducing food waste, while leading product execution, operations, and technical development.
 
-![Life2Food Banner](./banner.png)
+![Life2Food Banner](./Banner Life2food.png)
 
 ---
 
