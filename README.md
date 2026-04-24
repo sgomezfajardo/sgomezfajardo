@@ -98,8 +98,8 @@ I enjoy turning ideas into **robust digital products and sustainable business sy
 
 Open to **strategic partnerships, business alliances, and collaborations** in sustainability, commerce, and technology.
 
-- GitHub: https://github.com/alxbryann
-- (Add LinkedIn here if you want)
+- GitHub: https://github.com/sgomezfajardo
+- www.linkedin.com/in/jsgf
 
 ---
 
